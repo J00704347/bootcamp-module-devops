@@ -6,7 +6,7 @@ phases:
       #- echo Ejecutar comando de validate-template
       - aws cloudformation validate-template --template-body file://talleres/07/api-cfn-pipeline.yaml
 artifacts:
-  # Archivos a exportar
+  # Archivos a exporta
   discard-paths: yes
   files:
     - talleres/07/api-cfn-pipeline.yaml
