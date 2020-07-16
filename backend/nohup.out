@@ -1,0 +1,33 @@
+[2020-07-12 04:00:41 +0000] [5639] [INFO] Starting gunicorn 20.0.4
+[2020-07-12 04:00:41 +0000] [5639] [INFO] Listening at: http://0.0.0.0:8000 (5639)
+[2020-07-12 04:00:41 +0000] [5639] [INFO] Using worker: sync
+[2020-07-12 04:00:41 +0000] [5642] [INFO] Booting worker with pid: 5642
+[2020-07-12 04:00:41 +0000] [5643] [INFO] Booting worker with pid: 5643
+[2020-07-12 04:00:41 +0000] [5644] [INFO] Booting worker with pid: 5644
+[2020-07-12 04:04:46 +0000] [5639] [INFO] Handling signal: int
+[2020-07-12 04:04:47 +0000] [5643] [INFO] Worker exiting (pid: 5643)
+[2020-07-12 04:04:47 +0000] [5644] [INFO] Worker exiting (pid: 5644)
+[2020-07-12 04:04:47 +0000] [5642] [INFO] Worker exiting (pid: 5642)
+[2020-07-12 04:04:47 +0000] [5639] [INFO] Shutting down: Master
+[2020-07-12 04:05:05 +0000] [5894] [INFO] Starting gunicorn 20.0.4
+[2020-07-12 04:05:05 +0000] [5894] [INFO] Listening at: http://0.0.0.0:8000 (5894)
+[2020-07-12 04:05:05 +0000] [5894] [INFO] Using worker: sync
+[2020-07-12 04:05:05 +0000] [5897] [INFO] Booting worker with pid: 5897
+[2020-07-12 04:05:05 +0000] [5898] [INFO] Booting worker with pid: 5898
+[2020-07-12 04:05:05 +0000] [5900] [INFO] Booting worker with pid: 5900
+[2020-07-12 04:30:51 +0000] [5894] [INFO] Handling signal: int
+[2020-07-12 04:30:52 +0000] [5898] [INFO] Worker exiting (pid: 5898)
+[2020-07-12 04:30:52 +0000] [5900] [INFO] Worker exiting (pid: 5900)
+[2020-07-12 04:30:52 +0000] [5894] [INFO] Shutting down: Master
+[2020-07-14 02:34:10 +0000] [5322] [INFO] Starting gunicorn 20.0.4
+[2020-07-14 02:34:10 +0000] [5322] [INFO] Listening at: http://0.0.0.0:8000 (5322)
+[2020-07-14 02:34:10 +0000] [5322] [INFO] Using worker: sync
+[2020-07-14 02:34:10 +0000] [5329] [INFO] Booting worker with pid: 5329
+[2020-07-14 02:34:10 +0000] [5330] [INFO] Booting worker with pid: 5330
+[2020-07-14 02:34:11 +0000] [5332] [INFO] Booting worker with pid: 5332
+[2020-07-14 03:13:09 +0000] [5322] [INFO] Handling signal: hup
+[2020-07-14 03:13:09 +0000] [5322] [INFO] Hang up: Master
+[2020-07-14 03:13:09 +0000] [5322] [INFO] Handling signal: term
+[2020-07-14 03:13:09 +0000] [6200] [INFO] Booting worker with pid: 6200
+[2020-07-14 03:13:09 +0000] [6199] [INFO] Booting worker with pid: 6199
+[2020-07-14 03:13:09 +0000] [6201] [INFO] Booting worker with pid: 6201
