@@ -17,7 +17,8 @@ Mappings:
       "AmiId": "ami-026dea5602e368e96"
     us-west-2:
       "AmiId": "ami-0e34e7b9ca0ace12d"
-
+    us-west-1:
+      "AmiId": "ami-01311df3780ebd33e"
 Resources:
   CodeDeployServiceRole:
     Type: 'AWS::IAM::Role'
